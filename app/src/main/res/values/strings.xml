@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherInfo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_click_here">Click Here to Refresh</string>
+    <string name="str_dismiss">Dismiss </string>
+    <string name="str_last_updated">Last updated on</string>
+    <string name="str_no_connection">No Network Connection!!</string>
+    <string name="str_no_connection_descrip">Internet not available, Cross check your internet connectivity and try again</string>
+
+</resources>
