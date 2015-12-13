@@ -84,7 +84,7 @@ public class WeatherInfoManager
     //Fetch weather information
     private void FetchWeatherInformation(String inCityName)
     {
-        mApiInterface.getWheatherReport(inCityName, "2de143494c0b295cca9337e1e96b00e0", mCallback);
+        mApiInterface.getWheatherReport(inCityName, Constants.WEATHER_APPID, mCallback);
 
     }
 

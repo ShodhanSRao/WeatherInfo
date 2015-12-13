@@ -24,6 +24,7 @@ public class Constants
 
     //Url
     public static final String OPENAPI_URL ="http://api.openweathermap.org";
+    public static final String WEATHER_APPID  ="2de143494c0b295cca9337e1e96b00e0";
     //http://api.openweathermap.org/data/2.5/group?q=udupi&appid=2de143494c0b295cca9337e1e96b00e0
 
     public static final int kmiHANDLER_DATA_READY = 222;
